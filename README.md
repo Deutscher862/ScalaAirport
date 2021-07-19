@@ -1,3 +1,3 @@
-# Scala_airport
+# Scala Airport Simulator
 
-Symulator lotniska, realizujący generowanie lotów oraz klientów, przeprowadzający kolejne dni lotów oraz moniturujący statystyki symulacji.
+An airport simulator that generates flights and customers, conducts consecutive days of flights and monitors simulation statistics.
